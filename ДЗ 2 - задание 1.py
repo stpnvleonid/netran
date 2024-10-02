@@ -14,4 +14,3 @@ while repeat > x:
             print('Обычный год...')
     else:
         print('Високосный год!')
-    del year
